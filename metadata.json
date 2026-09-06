@@ -1,0 +1,6 @@
+{
+  "name": "VTU 1st Year Engineering Tracker & AI Assistant",
+  "description": "Comprehensive VTU 1st Year (Semester 1 & 2) syllabus tracker with module-topic-subtopic checklist, completion dates, revision scheduling, notes, doubts tracker, exam readiness, and syllabus-aware Gemini AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
